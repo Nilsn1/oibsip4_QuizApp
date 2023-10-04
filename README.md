@@ -22,7 +22,7 @@ This Android Quiz App is a simple application that allows users to take quizzes 
 
 ## Output
 
-- [Download Apk](https://drive.google.com/file/d/1-6N4kqxernG0qTmIIh_1NZvmpPdIb4gq/view?usp=drive_link)
+- [Download Apk](https://www.mediafire.com/file/tk9co4na3xovxeh/Quiz_App.apk/file)
 
 ## Source Code
 
