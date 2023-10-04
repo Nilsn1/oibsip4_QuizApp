@@ -18,7 +18,7 @@ This Android Quiz App is a simple application that allows users to take quizzes 
 
 ## Video Demo
 
-- [See Now]()
+- [See Now](https://www.linkedin.com/posts/nilesh-sonawane-06a668180_connections-task4-oasisinfobyte-activity-7115290847352385536-1VIg?utm_source=share&utm_medium=member_android)
 
 ## Output
 
